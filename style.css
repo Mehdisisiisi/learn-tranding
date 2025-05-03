@@ -1,0 +1,35 @@
+
+body {
+  font-family: 'Cairo', sans-serif;
+  background: linear-gradient(to bottom, #fdfbfb, #ebedee);
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+}
+header {
+  background-color: #1e1e2f;
+  color: #f5c518;
+  padding: 20px;
+  text-align: center;
+}
+main {
+  padding: 20px;
+}
+section {
+  background: #fff;
+  margin-bottom: 20px;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+footer {
+  background-color: #1e1e2f;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+a {
+  color: #f5c518;
+  text-decoration: none;
+}
